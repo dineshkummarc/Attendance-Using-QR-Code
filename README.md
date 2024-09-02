@@ -8,11 +8,9 @@ App (React-Native)
 
 ![Home](https://github.com/parthbhinde/Attendance-Using-QR-Code/blob/master/Screenshots/details.jpg?raw=true "Home")
 
-
 Help a friend
 ------------
 ![Help a friend](https://github.com/parthbhinde/Attendance-Using-QR-Code/blob/master/Screenshots/help%20a%20friend.jpg?raw=true "Help a friend")
-
 
 Details
 ------------
@@ -38,7 +36,4 @@ Authors
 - [Parth Bhinde](https://github.com/parthbhinde "Parth Bhinde")
 - [Vinayak Bhanushali ](https://github.com/Vinayak-Bhanushali "Vinayak Bhanushali ")
 
-
 The Mobile version of this app is also made in flutter by [Vinayak Bhanushali ](https://github.com/Vinayak-Bhanushali/QrAtt "Vinayak Bhanushali ")
-
-
